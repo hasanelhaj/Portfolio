@@ -9,5 +9,6 @@
 ## Certificates 
 
 ### [Foundations of Cybersecurity] (https://www.coursera.org/account/accomplishments/certificate/ZGYZ8MC5B2M2)
+### [Play It Safe: Manage Security Risks] (https://www.coursera.org/account/accomplishments/certificate/4TZY2LUETBSL)
 
 
