@@ -13,11 +13,20 @@ role where I can leverage my passion for technology and security expertise to dr
 
 ![hasanprofile](https://github.com/user-attachments/assets/32a5b79e-7df6-4bd3-9922-b51bde523f43)
 
+## Projects
+
+![https://github.com/PGIPTech/Security_Training)
+
+![https://github.com/PGIPTech/Peer-Project-my-counter-app)
+
+![https://github.com/PGIPTech/Peer-Project-Tic-Tac-Toe)
+
+![https://github.com/PGIPTech/ACGaming)
+
 
 ## Resume
 
-
-[Hasan El-haj resume.pdf](https://github.com/user-attachments/files/16537749/Hasan.El-haj.resume.pdf)
+[HasanEl-hajResume.pdf](https://github.com/user-attachments/files/16633067/HasanEl-hajResume.pdf)
 
 
 ## Certificates 
